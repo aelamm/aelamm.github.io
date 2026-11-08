@@ -13,6 +13,3 @@ This website describes the existing illustrative research projects rather than m
 - `assets/`: real chart images from project notebook outputs
 - `.nojekyll`: GitHub Pages static publishing helper
 
-## Personalization applied
-
-Display name: **Ayoub El Ammari**. GitHub: https://github.com/aelamm/. LinkedIn: https://www.linkedin.com/in/ayoub-el-ammari/. Streamlit demo URLs, individual repository links, email and CV remain unconfigured until you provide real public URLs.
