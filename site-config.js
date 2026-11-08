@@ -8,8 +8,8 @@ window.PORTFOLIO_CONFIG = {
   linkedinProfile: "https://www.linkedin.com/in/ayoub-el-ammari/",
   cvUrl: "",
   projects: {
-    commodity: { demo: "https://exotic-trading-book-vwtqox2y7ee54ml6txbjzx.streamlit.app/", github: "" },
-    callable: { demo: "", github: "" },
-    barrier: { demo: "", github: "" }
+    commodity: { demo: "https://exoticbook.streamlit.app/", github: "https://github.com/aelamm/trading-projects" },
+    callable: { demo: "https://callablebond.streamlit.app/", github: "https://github.com/aelamm/trading-projects" },
+    barrier: { demo: "https://barrieroption.streamlit.app/", github: "https://github.com/aelamm/trading-projects" }
   }
 };
